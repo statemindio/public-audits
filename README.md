@@ -7,6 +7,7 @@ This repository holds public audits performed by the statemind team.
 
 Date | Client | Name | Report
 ---|---|---|---
+2023-04-28 | Lido Finance | V2 | [link](Lido&#32;Finance/2023-04-28_Lido_V2.pdf)
 2023-04-20 | Lido Finance | GateSeals | [link](Lido&#32;Finance/2023-04-20_Lido_GateSeals.pdf)
 2023-02-03 | Keep3r Network | Sidechain oracles | [link](Keep3r&#32;Network/2023-02-03_Keep3r_Sidechain_oracles.pdf)
 2023-01-27 | Lido Finance | TRP vesting escrow | [link](Lido&#32;Finance/2023-01-27_Lido_TRP_vesting_escrow.pdf)
