@@ -7,6 +7,7 @@ This repository holds public audits performed by the statemind team.
 
 Date | Client | Name | Report
 ---|---|---|---
+2023-05-17 | Lido Finance | Polygon v2 | [link](Lido&#32;Finance/2023-05-17_Lido_Polygon_v2.pdf)
 2023-05-10 | Lido Finance | ShapellaUpgradeTemplate | [link](Lido&#32;Finance/2023-05-10_Lido_ShapellaUpgradeTemplate.pdf)
 2023-05-10 | Lido Finance | V2 deployment validation | [link](Lido&#32;Finance/2023-05-10_Lido_V2_deployment_validation.pdf)
 2023-04-28 | Lido Finance | V2 | [link](Lido&#32;Finance/2023-04-28_Lido_V2.pdf)
