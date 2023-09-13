@@ -7,6 +7,9 @@ This repository holds public audits performed by the statemind team.
 
 Date | Client | Name | Report
 ---|---|---|---
+2023-08-31 | Arrakis Finance | V2 manager templates | [link](Arrakis&#32;Finance/2023-08-31_Arrakis_V2_manager_templates.pdf)
+2023-08-31 | Arrakis Finance | V2 periphery | [link](Arrakis&#32;Finance/2023-08-31_Arrakis_V2_periphery.pdf)
+2023-08-29 | Arrakis Finance | V2 core rev2 | [link](Arrakis&#32;Finance/2023-08-29_Arrakis_V2_core_rev2.pdf)
 2023-08-28 | Instadapp | Avocado v3 | [link](Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf)
 2023-08-11 | Buttonwood | Buttonswap-core | [link](Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf)
 2023-05-17 | Lido Finance | Polygon v2 | [link](Lido&#32;Finance/2023-05-17_Lido_Polygon_v2.pdf)
