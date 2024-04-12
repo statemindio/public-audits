@@ -6,10 +6,8 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                         | Report                                                                      |
 |------------|-----------------|------------------------------|-----------------------------------------------------------------------------|
-| 2024-04-11 | Lido Finance    | GateSeal deployment validation     | [link](Lido&#32;Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf)
-
-| 2024-02-02 | Curve           | Curve Lending                | [link](Curve/2024-02-02_Curve_Lending.pdf)
-
+| 2024-04-11 | Lido Finance    | GateSeal deployment validation     | [link](Lido&#32;Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf) |
+| 2024-02-02 | Curve           | Curve Lending                | [link](Curve/2024-02-02_Curve_Lending.pdf) |
 | 2024-01-17 | Dega            | ISPO                         | [link](Dega/2024-01-17_Dega_ISPO.pdf)                                       |
 | 2023-12-29 | Instadapp       | Fluid                        | [link](Instadapp/2023-12-29_Instadapp_Fluid.pdf)                            |
 | 2023-10-30 | Curve           | Curve Stablecoin             | [link](Curve%2F2023-10-30_Curve_Stablecoin.pdf)                             |
@@ -32,5 +30,5 @@ This repository holds public audits performed by the statemind team.
 | 2022-09-09 | Lido Finance    | MEV-Boost relay allowlist    | [link](Lido&#32;Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf)      |
 | 2022-08-15 | Lido Finance    | Insurance Fund               | [link](Lido&#32;Finance/2022-08-15_Lido_Insurance_Fund.pdf)                 |
 | 2022-07-29 | 1inch Network   | Aggregation Router v5        | [link](1inch&#32;Network/2022-07-29_1inch_Aggregation_Router_v5.pdf)        |
-| 2022-07-08 | Yearn Finance   | veYFI(Voting and RewardPool) | [link](Yearn&#32;Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf) |
+| 2022-07-08 | Yearn Finance   | veYFI(Voting and RewardPool) | [link](Yearn&#32;Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf) 
 
