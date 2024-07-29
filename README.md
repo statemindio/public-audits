@@ -6,6 +6,7 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| 2024-03-01 | Yearn Finance   | Yearn V3                       | [link](Yearn&#32;Finance/2024-03-01_Yearn_V3.pdf)                           |
 | 2024-05-27 | Mellow          | Mellow LRT                     | [link](Mellow/2024-05-27_Mellow_LRT.pdf)                                    |
 | 2024-05-01 | Symbiotic       | Symbiotic Default Collateral   | [link](Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf)               |
 | 2024-04-23 | Valantis Labs   | Valantis HOT                   | [link](Valantis&#32;Labs/2024-04-23_Valantis_HOT.pdf)                       |
