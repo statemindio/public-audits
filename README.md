@@ -6,12 +6,12 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
-| 2024-03-01 | Yearn Finance   | Yearn V3                       | [link](Yearn&#32;Finance/2024-03-01_Yearn_V3.pdf)                           |
 | 2024-05-27 | Mellow          | Mellow LRT                     | [link](Mellow/2024-05-27_Mellow_LRT.pdf)                                    |
 | 2024-05-01 | Symbiotic       | Symbiotic Default Collateral   | [link](Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf)               |
 | 2024-04-23 | Valantis Labs   | Valantis HOT                   | [link](Valantis&#32;Labs/2024-04-23_Valantis_HOT.pdf)                       |
 | 2024-04-11 | Lido Finance    | GateSeal deployment validation | [link](Lido&#32;Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf) |
 | 2024-03-19 | Valantis Labs   | Valantis Core                  | [link](Valantis&#32;Labs/2024-03-19_Valantis_Core.pdf)                      |
+| 2024-03-01 | Yearn Finance   | Yearn V3                       | [link](Yearn&#32;Finance/2024-03-01_Yearn_V3.pdf)                           |
 | 2024-02-02 | Curve           | Curve Lending                  | [link](Curve/2024-02-02_Curve_Lending.pdf)                                  |
 | 2024-01-17 | Dega            | ISPO                           | [link](Dega/2024-01-17_Dega_ISPO.pdf)                                       |
 | 2023-12-29 | Instadapp       | Fluid                          | [link](Instadapp/2023-12-29_Instadapp_Fluid.pdf)                            |
