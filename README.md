@@ -13,6 +13,7 @@ This repository holds public audits performed by the statemind team.
 | 2024-04-11 | Lido Finance    | GateSeal deployment validation | [link](Lido&#32;Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf) |
 | 2024-04-10 | Instadapp       | Avocado Chain Agnostic feature | [link](Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf)   |
 | 2024-03-19 | Valantis Labs   | Valantis Core                  | [link](Valantis&#32;Labs/2024-03-19_Valantis_Core.pdf)                      |
+| 2024-03-12 | Lido Finance    | Lido Voting                    | [link](Lido&#32;Finance/2024-03-12_Lido_Voting.pdf)                         |
 | 2024-03-01 | Yearn Finance   | Yearn V3                       | [link](Yearn&#32;Finance/2024-03-01_Yearn_V3.pdf)                           |
 | 2024-02-02 | Curve           | Curve Lending                  | [link](Curve/2024-02-02_Curve_Lending.pdf)                                  |
 | 2024-01-17 | Dega            | ISPO                           | [link](Dega/2024-01-17_Dega_ISPO.pdf)                                       |
