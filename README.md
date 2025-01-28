@@ -6,6 +6,9 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| 2024-12-27 | Symbiotic       | Symbiotic Hooks                | [link](Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf)               |
+| 2024-12-20 | Symbiotic       | Symbiotic Core                 | [link](Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf)                |
+| 2024-09-20 | Mellow          | Mellow Simple LRT              | [link](Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf)                |
 | 2024-05-30 | Mellow          | Mellow LRT Obol                | [link](Mellow/2024-05-30_Mellow_LRT_Obol.pdf)                               |
 | 2024-05-27 | Mellow          | Mellow LRT                     | [link](Mellow/2024-05-27_Mellow_LRT.pdf)                                    |
 | 2024-05-23 | Vyper           | Vyper compiler modules         | [link](Vyper/2024-05-23_Vyper_compiler_modules.pdf)                         |
