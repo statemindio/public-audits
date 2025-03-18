@@ -6,6 +6,8 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| 2025-03-10 | Lido Finance    | GateSeal deployment validation | [link](Lido&#32;Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf)       |
+| 2025-01-31 | Mellow          | Mellow Multi Vault             | [link](Mellow/2025-01-31_Mellow_MultiVault_with_deployment.pdf)             |
 | 2024-12-27 | Symbiotic       | Symbiotic Hooks                | [link](Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf)               |
 | 2024-12-20 | Symbiotic       | Symbiotic Core                 | [link](Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf)                |
 | 2024-09-20 | Mellow          | Mellow Simple LRT              | [link](Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf)                |
