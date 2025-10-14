@@ -6,6 +6,8 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| 2025-09-19 | Lido Finance    | Lido Triggerable Withdrawals and CSM V2 | [link](Lido&#32;Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf)  |
+| 2025-08-19 | Lido Finance    | Dual Governance escrow fix review and deployment validation | [link](Lido&#32;Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf)  |
 | 2025-05-27 | Lido Finance    | Dual Governance script review  | [link](Lido&#32;Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf)  |
 | 2025-03-10 | Lido Finance    | GateSeal deployment validation | [link](Lido&#32;Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf)       |
 | 2025-02-24 | Yield Basis     | Yield Basis Core               | [link](Yield&#32;Basis/2025-02-24_Yield_Basis_core_2025.pdf)                |
