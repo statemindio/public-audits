@@ -6,6 +6,9 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| 2026-03-04 | Instadapp       | Avocado EIP-7702 PR validation | [link](Instadapp/2026-03-04_Avocado_EIP-7702_PR_validation.pdf)             |
+| 2026-03-02 | Instadapp       | Fluid PR validation            | [link](Instadapp/2026-03-02_Fluid_PR_validation.pdf)                        |
+| 2025-10-14 | Instadapp       | Liquidity Layer Update         | [link](Instadapp/2025-10-14_Liquidity_Layer_Updated.pdf)                    |
 | 2025-09-19 | Lido Finance    | Lido Triggerable Withdrawals and CSM V2 | [link](Lido&#32;Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf)  |
 | 2025-08-19 | Lido Finance    | Dual Governance escrow fix review and deployment validation | [link](Lido&#32;Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf)  |
 | 2025-05-27 | Lido Finance    | Dual Governance script review  | [link](Lido&#32;Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf)  |
