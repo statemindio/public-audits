@@ -6,6 +6,7 @@ This repository holds public audits performed by the statemind team.
 
 | Date       | Client          | Name                           | Report                                                                      | Note |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|------|
+| 2026-04-20 | StakeWise       | StakeWise Core V3              | [link](StakeWise/2026-04-20_StakeWise_Core_V3.pdf)                          |      |
 | 2026-03-04 | Instadapp       | Avocado EIP-7702 PR validation | [link](Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf)   |      |
 | 2026-03-02 | Instadapp       | Fluid PR validation            | [link](Instadapp/2026-03-02_Instadapp_Fluid_PR_validation.pdf)              |      |
 | 2025-11-06 | Curve           | Curve Stablecoin               | [link](Curve/2025-11-06_Сurve_stablecoin_AI_report.pdf)                     |  AI  |
