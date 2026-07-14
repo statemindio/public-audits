@@ -7,6 +7,8 @@ This repository holds public audits performed by the statemind team.
 | Date       | Client          | Name                           | Report                                                                      | Note |
 |------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|------|
 | 2026-07-09 | Symbiotic       | Symbiotic Core V2 ThreeFAdapter| [link](Symbiotic/2026-07-09_Statemind_Symbiotic_Core_V2_ThreeF_adapter_report.pdf) |      |
+| 2025-07-01 | Lido Finance    | Lido Staking Router V3         | [link](Lido&#32;Finance/2026-07-01_Statemind_Lido_Staking_Router_V3_final_report.pdf) |       |
+| 2025-06-30 | Lido Finance    | Lido CSM V3 and CM V2          | [link](Lido&#32;Finance/2026-06-30_Statemind_Lido_CSM_V3_and_CM_V2_final_report.pdf)  |       |
 | 2026-06-26 | Symbiotic       | Symbiotic Core V2              | [link](Symbiotic/2026-06-26_Statemind_Symbiotic_Core_V2_final_report.pdf)   |      |
 | 2026-04-20 | StakeWise       | StakeWise Core V3              | [link](StakeWise/2026-04-20_StakeWise_Core_V3.pdf)                          |      |
 | 2026-03-04 | Instadapp       | Avocado EIP-7702 PR validation | [link](Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf)   |      |
